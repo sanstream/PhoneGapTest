@@ -1,0 +1,535 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"we",
+				"webkit-box-sizing"
+			],
+			[
+				"box",
+				"moz-box-sizing"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"pre",
+				"presetForm"
+			],
+			[
+				"ha",
+				"handleRadioInputs"
+			],
+			[
+				"parse",
+				"parseQueryString	Moo.More String"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"eac",
+				"each	Moo.Array"
+			],
+			[
+				"ga",
+				"galleryItems"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"eve",
+				"eventObject"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"tr",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"add",
+				"addClass	Moo.addClass(className) Element"
+			],
+			[
+				"do",
+				"document.id	Moo.document.id"
+			],
+			[
+				"b",
+				"buildwithTwo"
+			],
+			[
+				"da",
+				"dataSet2"
+			],
+			[
+				"ci",
+				"circles"
+			],
+			[
+				"cx",
+				"cxIncrementor"
+			],
+			[
+				"cic",
+				"circle"
+			],
+			[
+				"sele",
+				"selectAll	Moo.More HtmlTable"
+			],
+			[
+				"data",
+				"dataSet1"
+			],
+			[
+				"addE",
+				"addEvent	Moo.addEvent(type, fn[, internal]) Events"
+			],
+			[
+				"repl",
+				"str_replace"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"cont",
+				"contentBox"
+			],
+			[
+				"pane",
+				"pane2"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"a",
+				"article	Tag"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"loes",
+				"loesvandijk2"
+			],
+			[
+				"ot",
+				"otf"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"Git:",
+				"Git: Init"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 110.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sanne/resources/phonegap-workshop-master/phonegap-workshop-master/index.html",
+		"/C/Users/Sanne/resources/phonegap-workshop-master/phonegap-workshop-master/readme.md",
+		"/C/Users/Sanne/resources/phonegap-workshop-master/phonegap-workshop-master/js/storage/ls-store.js",
+		"/C/Users/Sanne/resources/phonegap-workshop-master/phonegap-workshop-master/js/storage/memory-store.js",
+		"/C/Users/Sanne/resources/phonegap-workshop-master/phonegap-workshop-master/js/storage/websql-store.js",
+		"/C/Users/Sanne/resources/phonegap-workshop-master/phonegap-workshop-master/js/main.js",
+		"/C/Users/Sanne/resources/phonegap-2.9.0/phonegap-2.9.0/README.md",
+		"/C/Users/Sanne/resources/phonegap-2.9.0/phonegap-2.9.0/lib/cordova-cli/README.md",
+		"/C/Users/Sanne/Desktop/email verstuurd naar xs4all.txt",
+		"/C/Users/Sanne/Desktop/fritz.box internet event log.txt",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/modules/blog/posts.php",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/modules/blog/archive.php",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/css/main.css",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/partials/header.html",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/layouts/default.html",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/js/main.js",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/css/siteSpecific.css",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/modules/blog/view.php",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/theme.php",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/partials/footer.html",
+		"/C/wamp/www/Fiddles/JS/main.js",
+		"/C/wamp/www/Fiddles/index.html",
+		"/C/Users/Sanne/Desktop/Fading Uitvaartzorg‎.txt",
+		"/C/wamp/www/responsiveSanstream/livegang.md",
+		"/C/wamp/bin/php/php5.3.0/php.ini",
+		"/C/wamp/www/responsiveSanstream/system/cms/modules/blog/views/view.php",
+		"/C/wamp/www/responsiveSanstream/system/cms/modules/blog/views/posts.php",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/modules/blog/tagged.php",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/modules/pages/page.php",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/modules/pages/rss.php",
+		"/C/Users/Sanne/Downloads/slimbox-1.8/src/slimbox.js",
+		"/C/wamp/www/sanstream-html5/addons/shared_addons/themes/sanstream/css/global.css",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/js/plugins.js",
+		"/C/wamp/www/sanstream-html5/addons/shared_addons/themes/sanstream/views/layouts/default.html",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/base/views/modules/pages/page.php",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/base/views/modules/blog/archive.php",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/base/views/modules/blog/posts.php",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/base/theme.php",
+		"/C/wamp/www/sanstream-html5/addons/shared_addons/themes/sanstream/theme.php",
+		"/C/Users/Sanne/Downloads/slimbox-1.8/js/slimbox.js",
+		"/C/Users/Sanne/Downloads/slimbox-1.8/js/mootools.js",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/css/plugins.css",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/css/workless.css",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/partials/aside.html",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/partials/breadcrumbs.html",
+		"/C/wamp/www/responsiveSanstream-html/responsiveSanstream/index.html",
+		"/C/wamp/www/responsiveSanstream/addons/shared_addons/themes/responsiveSanstream/views/partials/slider.html",
+		"/C/wamp/www/responsiveSanstream/index.html",
+		"/C/wamp/www/responsiveSanstream/js/plugins.js",
+		"/C/wamp/www/responsiveSanstream/js/main.js",
+		"/C/wamp/www/responsiveSanstream/css/siteSpecific.css",
+		"/C/Users/Sanne/Downloads/icomoon25576/icomoon25576/style.css",
+		"/C/Users/Sanne/Downloads/icomoon93948/icomoon93948/style.css",
+		"/C/wamp/www/loesvandijk2.0/system/cms/modules/contact/plugin.php",
+		"/C/wamp/www/loesvandijk2.0/system/cms/modules/contact/details.php",
+		"/C/wamp/www/responsiveSanstream/CHANGELOG.md",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/harpy/views/layouts/default.html",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/harpy/views/modules/contact.html",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/harpy/views/layouts/contact.html",
+		"/C/wamp/www/loesvandijk2.0/system/cms/modules/contact/language/dutch/contact_lang.php",
+		"/C/Users/Sanne/Desktop/15 minute meal.md",
+		"/C/wamp/www/loesvandijk2.0/.travis.yml",
+		"/C/wamp/www/responsiveSanstream/doc/htaccess.md",
+		"/C/wamp/www/responsiveSanstream/doc/html.md",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/base/views/modules/blog/archive.php",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/base/views/modules/pages/page.php",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/base/views/layouts/default.html",
+		"/C/wamp/www/responsiveSanstream/doc/misc.md",
+		"/C/wamp/www/responsiveSanstream/doc/js.md",
+		"/C/wamp/www/responsiveSanstream/doc/faq.md",
+		"/C/wamp/www/responsiveSanstream/doc/extend.md",
+		"/C/wamp/www/responsiveSanstream/doc/css.md",
+		"/C/wamp/www/responsiveSanstream/doc/crossdomain.md",
+		"/C/wamp/www/responsiveSanstream/doc/contribute.md",
+		"/C/wamp/www/responsiveSanstream/doc/usage.md",
+		"/C/wamp/www/responsiveSanstream/404.html",
+		"/C/wamp/www/responsiveSanstream/doc/README.md",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/harpy/views/partials/metadata.html",
+		"/C/wamp/www/loesvandijk2.0/bestandenstructuur in cms.txt",
+		"/C/wamp/www/loesvandijk2.0/Upgrade plan voor loesvandijk.nl.txt",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/harpy/js/global.js",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/harpy/css/global.css",
+		"/C/wamp/www/loesvandijk_backup[live - 3-1-2-2012]/addons/themes/harpy/css/global.css",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/harpy/views/partials/header.html",
+		"/C/wamp/www/loesvandijk/system/cms/config/database.php",
+		"/C/wamp/www/loesvandijk/addons/shared_addons/themes/harpy/css/global.css",
+		"/C/wamp/www/loesvandijk_live/system/pyrocms/config/config.php",
+		"/C/wamp/www/loesvandijk/system/pyrocms/config/database.php",
+		"/C/wamp/www/responsiveSanstream/css/main.css",
+		"/C/wamp/www/responsiveSanstream/fonts/League Gothic.otf",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/harpy/views/partials/breadcrumbs.html",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/conjuction/views/layouts/default.html",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/harpy/views/partials/footer.html",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/harpy/views/partials/sidebar.html",
+		"/C/wamp/www/responsiveSanstream/css/normalize.css",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/base/js/script.js",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/base/js/libs/jquery.js",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/base/js/libs/modernizr.js",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/base/js/plugins.js",
+		"/C/Users/Sanne/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.py",
+		"/C/wamp/www/loesvandijk2.0/system/cms/libraries/Markdown_parser.php",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/minimal/css/960.css",
+		"/C/wamp/www/loesvandijk2.0/addons/shared_addons/themes/minimal/css/main.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\responsiveSanstream\\addons\\shared_addons",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rel=\"lightbox\"",
+			"a ",
+			"a",
+			"span",
+			"gallery a",
+			"a",
+			"</a>",
+			"<a r",
+			"<a rel",
+			"=",
+			".landscape",
+			"content",
+			"infoBlock",
+			"%;\n",
+			"</span>",
+			"<span xml:lang=\"EN-GB\">",
+			"</small>",
+			"<small>",
+			"max_siz",
+			"An HTML5 base template filled with goodies to get you up and running quickly.",
+			"rel=\"\"",
+			"/small/",
+			";\n",
+			"<h5",
+			"5",
+			".landscape",
+			"}",
+			"{pyro:",
+			"</span>",
+			"<span style=\"font-size:12px;\">",
+			"</small>",
+			"<small>",
+			"<section",
+			"section",
+			"}",
+			"{pyro:",
+			"}",
+			"}}\n",
+			"}",
+			"{pyro:",
+			"}",
+			"{pyro:",
+			"table"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#",
+			"",
+			"rel=\"lightbox\"",
+			"/large/",
+			"<h5 class=\"blockHeading\"",
+			"/*.landscape*/",
+			"}}",
+			"{{",
+			"",
+			" }}",
+			"{{ ",
+			" }}",
+			"{{ ",
+			" }}",
+			"{{ "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true
+}
